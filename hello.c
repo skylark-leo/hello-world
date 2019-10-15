@@ -15,5 +15,5 @@ int main(void)
             curl_easy_strerror (res));
      curl_easy_cleanup(cur1);
 ｝
- return0;
+ return 0;
  }
